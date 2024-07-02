@@ -7,6 +7,6 @@ pyarrow
 seaborn
 matplotlib
 streamlit==1.36.0
-scikit-learn==1.2.1
+scikit-learn==1.3.2
 numpy
 pandas
